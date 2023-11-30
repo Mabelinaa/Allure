@@ -1,0 +1,1 @@
+{"bea3ff552051cd5859f818eee25f6187":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"be6859f1b7ad60b8","status":"passed","statusDetails":"AllureLoginTest","time":{"start":1701331250373,"stop":1701331256739,"duration":6366}}]}}

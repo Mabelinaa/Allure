@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Nov 30 08:00:50 UTC 2023","Thu Nov 30 08:00:56 UTC 2023","6366","","","","AllureTest","AllureLoginTest","AllureLoginTest","Login in FARO app"
